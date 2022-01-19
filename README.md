@@ -1,4 +1,4 @@
-I am currently a post-doctoral researcher at the [Department of Earth and Planetary Science, UC Berkeley](https://eps.berkeley.edu), United States. Although I am intrigued by all sorts of data science projects, my primary research interests are in Geophysics (mostly seismology), and Geodesy. I work on the tools that support data-intensive research and build open-source software tools.
+I am currently a post-doctoral researcher at the [Department of Earth and Planetary Science, UC Berkeley](https://eps.berkeley.edu), United States. Although I am intrigued by all sorts of data science projects, my primary research interests are in Geophysics (mostly seismology), and Geodesy. I work on the tools that support data-intensive research and build open-source software tools. I am highly interested in subjects such as geospatial big data, machine learning, and cloud computing.
 
 ## Some Blog Posts
 1. [Using dask Python library to read a huge global earthquake catalog file](https://www.earthinversion.com/utilities/using-dask-python-library-to-read-a-huge-global-earthquake-catalog-file/)
