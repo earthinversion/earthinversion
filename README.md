@@ -12,5 +12,12 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
 9. [Transfer learning applied on the unsplash data using alexnet pretrained network](https://www.earthinversion.com/machinelearning/transfer-learning-applied-on-unsplash-data-using-alexnet/)
 10. [PyQt5 Application for visualizing ambient sound in real-time](https://www.earthinversion.com/desktopapps/pyqt5-application-for-visualizing-ambient-sound-in-real-time/)
 
+## Open-source projects
+1. https://pypi.org/project/dtwhaclustering/
+2. https://www.earthinversion.com/downloads/voice-plotter-application/
+3. https://www.earthinversion.com/downloads/system-monitor-application-for-windows/
+4. https://pypi.org/project/miniseed2mat/
+
+
 
 For more info, visit my blog: [earthinversion.com](https://www.earthinversion.com)
