@@ -22,4 +22,6 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
 
 For more info, visit my blog: [earthinversion.com](https://www.earthinversion.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=earthinversion)](https://github.com/earthinversion/github-readme-stats)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=earthinversion&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earthinversion&langs_count=3&hide=javascript,go,html,css,tex)
