@@ -17,6 +17,7 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
 2. https://www.earthinversion.com/downloads/voice-plotter-application/
 3. https://www.earthinversion.com/downloads/system-monitor-application-for-windows/
 4. https://pypi.org/project/miniseed2mat/
+5. https://github.com/earthinversion/FerryMan.git
 
 
 
