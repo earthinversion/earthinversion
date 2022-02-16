@@ -13,11 +13,11 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
 10. [PyQt5 Application for visualizing ambient sound in real-time](https://www.earthinversion.com/desktopapps/pyqt5-application-for-visualizing-ambient-sound-in-real-time/)
 
 ## Open-source projects
-1. [Python package to cluster geodetic time series](https://pypi.org/project/dtwhaclustering/)
-2. https://www.earthinversion.com/downloads/voice-plotter-application/
-3. https://www.earthinversion.com/downloads/system-monitor-application-for-windows/
-4. https://pypi.org/project/miniseed2mat/
-5. https://github.com/earthinversion/FerryMan.git
+1. [dtwhaclustering: A python package to cluster geodetic time series](https://pypi.org/project/dtwhaclustering/)
+2. [Voice-Plotter: A GUI application to visualize real-time ambient sounds](https://www.earthinversion.com/downloads/voice-plotter-application/)
+3. [System-monitor: A GUI application to get real-time feedback on system runtime statistics](https://www.earthinversion.com/downloads/system-monitor-application-for-windows/)
+4. [Miniseed2mat: Convert miniseed data format to MATLAB's native MAT format](https://pypi.org/project/miniseed2mat/)
+5. [FerryMan: A web application to identify the "comfort" zone of different species based on their Ecological Index](https://github.com/earthinversion/FerryMan.git)
 
 
 
