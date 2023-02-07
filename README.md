@@ -10,7 +10,7 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
 2. Development of a low-cost __structural health monitoring system__ - Quake Structural Integrity System (QSIS). This involves:
     1. Assembling a single board computing (SBC) system and sensors to build the client system
     2. Development of the _client software_ to record, process, store, and transmit the data in real-time
-    3. Development of the _server softwares_ to run on the receiving end of the client software to retrieve the realtime data from multiple clients asynchronously through websocket connection, and post-process data. The server is also responsible for the computation of structural parameters like natural frequencies of the structures, S-wave velocity and damping parameters. It also send alerts to the users by emails or app notifications.
+    3. Development of the _server software_ to run on the receiving end of the client software to retrieve the realtime data from multiple clients asynchronously through websocket connection, and post-process data. The server is also responsible for the computation of structural parameters like natural frequencies of the structures, S-wave velocity and damping parameters. It also send alerts to the users by emails or app notifications.
 
 ## Open-source projects
 1. [dtwhaclustering: A python package to cluster geodetic time series](https://pypi.org/project/dtwhaclustering/)
