@@ -7,7 +7,7 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
     3. Developing and running codes on supercomputing clusters, e.g., Texas Advanced Computing Center (TACC), National Energy Research Scientific Computing Center (NERSC)
     4. Developing codes that can be parallelized on CPUs and GPUs on any computing facilities (small clusters to supercomputing clusters).
     5. Visualizing tomographic results by rendering in 2D and 3D.
-2. Development of a low cost structural health monitoring system - Quake Structural Integrity System (QSIS). This involves:
+2. Development of a low-cost structural health monitoring system - Quake Structural Integrity System (QSIS). This involves:
     1. Assembling Single board computing system and sensors to build the client system
     2. Development of the client software to record, process, store, and transmit the data in real-time
     3. Development of the server softwares to run on the receiving end of the client software to retrieve the realtime data from multiple clients asynchronously through websocket connection, and post-process data. The server is also responsible for the computation of structural parameters like natural frequencies of the structures, S-wave velocity and damping parameters. It also send alerts to the users by emails or app notifications.
