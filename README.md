@@ -2,15 +2,15 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
 
 ## Current projects (Not open-source yet)
 1. Developing a 3D elastic model of __deep structure beneath the Yellowstone hotspot__ (from surface to the Core-Mantle Boundary). This involves:
-    1. Developing and finalizing codes for full-waveform inversion using Normal-mode perturbation theory
-    2. Implementing full-waveform inversion using the Adjoint method
+    1. Developing and finalizing codes for _full-waveform inversion using Normal-mode perturbation theory_
+    2. Implementing _full-waveform inversion using the Adjoint method_
     3. Developing and running codes on supercomputing clusters, e.g., Texas Advanced Computing Center (TACC), National Energy Research Scientific Computing Center (NERSC)
     4. Developing codes that can be parallelized on CPUs and GPUs on any computing facilities (small clusters to supercomputing clusters).
     5. Visualizing tomographic results by rendering in 2D and 3D.
 2. Development of a low-cost __structural health monitoring system__ - Quake Structural Integrity System (QSIS). This involves:
-    1. Assembling Single board computing system and sensors to build the client system
-    2. Development of the client software to record, process, store, and transmit the data in real-time
-    3. Development of the server softwares to run on the receiving end of the client software to retrieve the realtime data from multiple clients asynchronously through websocket connection, and post-process data. The server is also responsible for the computation of structural parameters like natural frequencies of the structures, S-wave velocity and damping parameters. It also send alerts to the users by emails or app notifications.
+    1. Assembling a single board computing (SBC) system and sensors to build the client system
+    2. Development of the _client software_ to record, process, store, and transmit the data in real-time
+    3. Development of the _server softwares_ to run on the receiving end of the client software to retrieve the realtime data from multiple clients asynchronously through websocket connection, and post-process data. The server is also responsible for the computation of structural parameters like natural frequencies of the structures, S-wave velocity and damping parameters. It also send alerts to the users by emails or app notifications.
 
 ## Open-source projects
 1. [dtwhaclustering: A python package to cluster geodetic time series](https://pypi.org/project/dtwhaclustering/)
