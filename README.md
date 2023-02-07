@@ -2,7 +2,7 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
 
 ## Current projects (Not open-source yet)
 1. Developing a 3D elastic model of __deep structure beneath the Yellowstone hotspot__ (from surface to the Core-Mantle Boundary). This involves:
-    1. Developing and finalizing codes for _full-waveform inversion using Normal-mode perturbation theory_
+    1. Developing and finalizing codes for _full-waveform inversion using the Normal-mode perturbation theory_
     2. Implementing _full-waveform inversion using the Adjoint method_
     3. Developing and running codes on supercomputing clusters, e.g., Texas Advanced Computing Center (TACC), National Energy Research Scientific Computing Center (NERSC)
     4. Developing codes that can be parallelized on CPUs and GPUs on any computing facilities (small clusters to supercomputing clusters).
