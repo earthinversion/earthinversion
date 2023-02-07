@@ -12,6 +12,10 @@ I am currently a post-doctoral researcher at the [Department of Earth and Planet
     2. Development of the _client software_ to record, process, store, and transmit the data in real-time
     3. Development of the _server software_ to run on the receiving end of the client software to retrieve the realtime data from multiple clients asynchronously through websocket connection, and post-process data. The server is also responsible for the computation of structural parameters like natural frequencies of the structures, S-wave velocity and damping parameters. It also send alerts to the users by emails or app notifications.
 
+You can check the Github organizations to follow my above two projects:
+1. [Global Seismology Research Group (Barbara Romanowicz)](https://github.com/bsl-group)
+1. [Quake Structural Integrity System](https://github.com/Quake-Structural-Integrity-System)
+
 ## Open-source projects
 1. [dtwhaclustering: A python package to cluster geodetic time series](https://pypi.org/project/dtwhaclustering/)
 2. [Voice-Plotter: A GUI application to visualize real-time ambient sounds](https://www.earthinversion.com/downloads/voice-plotter-application/)
