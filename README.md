@@ -1,13 +1,13 @@
 I am currently a post-doctoral researcher at the [Department of Earth and Planetary Science, UC Berkeley](https://eps.berkeley.edu), United States. Although I am intrigued by all sorts of data science works, my primary research interests are in Geophysics (mostly seismology), and Geodesy. I work on the tools that support data-intensive research and build open-source software tools. I am highly interested in geospatial big data, machine learning, and cloud computing.
 
 ## Current projects (Not open-source yet)
-1. Developing a 3D elastic model of deep structure beneath the Yellowstone hotspot (from surface to the Core-Mantle Boundary). This involves:
+1. Developing a 3D elastic model of __deep structure beneath the Yellowstone hotspot__ (from surface to the Core-Mantle Boundary). This involves:
     1. Developing and finalizing codes for full-waveform inversion using Normal-mode perturbation theory
     2. Implementing full-waveform inversion using the Adjoint method
     3. Developing and running codes on supercomputing clusters, e.g., Texas Advanced Computing Center (TACC), National Energy Research Scientific Computing Center (NERSC)
     4. Developing codes that can be parallelized on CPUs and GPUs on any computing facilities (small clusters to supercomputing clusters).
     5. Visualizing tomographic results by rendering in 2D and 3D.
-2. Development of a low-cost structural health monitoring system - Quake Structural Integrity System (QSIS). This involves:
+2. Development of a low-cost __structural health monitoring system__ - Quake Structural Integrity System (QSIS). This involves:
     1. Assembling Single board computing system and sensors to build the client system
     2. Development of the client software to record, process, store, and transmit the data in real-time
     3. Development of the server softwares to run on the receiving end of the client software to retrieve the realtime data from multiple clients asynchronously through websocket connection, and post-process data. The server is also responsible for the computation of structural parameters like natural frequencies of the structures, S-wave velocity and damping parameters. It also send alerts to the users by emails or app notifications.
