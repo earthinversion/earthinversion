@@ -1,6 +1,6 @@
 I am currently a post-doctoral researcher at the [Department of Earth and Planetary Science, UC Berkeley](https://eps.berkeley.edu), United States. Although I am intrigued by all sorts of data science works, my primary research interests are in Geophysics (mostly seismology), and Geodesy. I work on the tools that support data-intensive research and build open-source software tools. I am highly interested in geospatial big data, machine learning, and cloud computing.
 
-## Current projects (Unfortunately, not open-source yet)
+## Current projects (Not open-source yet)
 1. Developing a 3D elastic model of deep structure beneath the Yellowstone hotspot (from surface to the Core-Mantle Boundary). This involves:
     1. Developing and finalizing codes for full-waveform inversion using Normal-mode perturbation theory
     2. Implementing full-waveform inversion using the Adjoint method
