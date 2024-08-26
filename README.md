@@ -1,17 +1,17 @@
 I am currently a post-doctoral researcher at the [Department of Earth and Planetary Science, UC Berkeley](https://eps.berkeley.edu), United States. Although I am intrigued by all sorts of data science works, my primary research interests are in Geophysics (mostly seismology), and Geodesy. I work on the tools that support data-intensive research and build open-source software tools. I am highly interested in geospatial big data, machine learning, and cloud computing.
 
 ## Current projects (Not open-source yet)
-1. Developing a 3D elastic model of __deep structure beneath the Yellowstone hotspot__ (from surface to the Core-Mantle Boundary). This involves:
+1. Development of MyShake Structural Health Monitoring System using Smartphones 
+2. Developing a 3D elastic model of __deep structure beneath the Yellowstone hotspot__ (from surface to the Core-Mantle Boundary). This involves:
     1. Developing and finalizing codes for _full-waveform inversion using the Normal-mode perturbation theory_
     2. Implementing _full-waveform inversion using the Adjoint method_
     3. Developing and running codes on supercomputing clusters, e.g., Texas Advanced Computing Center (TACC), National Energy Research Scientific Computing Center (NERSC)
     4. Developing codes that can be parallelized on CPUs and GPUs on any computing facilities (small clusters to supercomputing clusters).
     5. Visualizing tomographic results by rendering in 2D and 3D.
-2. Development of a low-cost __structural health monitoring system__ - Quake Structural Integrity System (QSIS). This involves:
+3. Development of a low-cost __structural health monitoring system__ - Quake Structural Integrity System (QSIS). This involves:
     1. Assembling a single board computing (SBC) system and sensors to build the client system
     2. Development of the _client software_ to record, process, store, and transmit the data in real-time
     3. Development of the _server software_ to run on the receiving end of the client software to retrieve the realtime data from multiple clients asynchronously through websocket connection, and post-process data. The server is also responsible for the computation of structural parameters like natural frequencies of the structures, S-wave velocity and damping parameters. It also send alerts to the users by emails or app notifications.
-3. Development of MyShake Structural Health Monitoring System using Smartphones 
 
 You can check the Github organizations to follow my above two projects:
 1. [Global Seismology Research Group (Barbara Romanowicz)](https://github.com/bsl-group)
