@@ -18,11 +18,12 @@ You can check the Github organizations to follow my above two projects:
 1. [Quake Structural Integrity System](https://github.com/Quake-Structural-Integrity-System)
 
 ## Open-source projects
-1. [dtwhaclustering: A python package to cluster geodetic time series](https://pypi.org/project/dtwhaclustering/)
-2. [Voice-Plotter: A GUI application to visualize real-time ambient sounds](https://www.earthinversion.com/downloads/voice-plotter-application/)
-3. [System-monitor: A GUI application to get real-time feedback on system runtime statistics](https://www.earthinversion.com/downloads/system-monitor-application-for-windows/)
-4. [Miniseed2mat: Convert miniseed data format to MATLAB's native MAT format](https://pypi.org/project/miniseed2mat/)
-5. [FerryMan: A web application to identify the "comfort" zone of different species based on their Ecological Index](https://github.com/earthinversion/FerryMan.git)
+1. [seismoAlert: Real-time earthquake monitor and anomaly detector using USGS earthquake data](https://github.com/earthinversion/seismoalert/)
+2. [dtwhaclustering: A python package to cluster geodetic time series](https://pypi.org/project/dtwhaclustering/)
+3. [Voice-Plotter: A GUI application to visualize real-time ambient sounds](https://www.earthinversion.com/downloads/voice-plotter-application/)
+4. [System-monitor: A GUI application to get real-time feedback on system runtime statistics](https://www.earthinversion.com/downloads/system-monitor-application-for-windows/)
+5. [Miniseed2mat: Convert miniseed data format to MATLAB's native MAT format](https://pypi.org/project/miniseed2mat/)
+6. [FerryMan: A web application to identify the "comfort" zone of different species based on their Ecological Index](https://github.com/earthinversion/FerryMan.git)
 
 
 ## Some Blog Posts
