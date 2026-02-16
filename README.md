@@ -40,8 +40,4 @@ You can check the Github organizations to follow my above two projects:
 
 For more info, visit my blog: [earthinversion.com](https://www.earthinversion.com)
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=earthinversion&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earthinversion&langs_count=3&hide=javascript,go,html,css,tex)
-
 ![](https://komarev.com/ghpvc/?username=earthinversion&color=brightgreen)
